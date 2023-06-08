@@ -15,9 +15,9 @@ const Characters = () => {
   useEffect(() => {
     async function fetchData() {
       try {
-        const response = await fetch(`https://the-one-api.dev/v2/quote?limit=9&page=${page}`, {
+        const response = await fetch(`${process.env.API_URL}/quote?limit=9&page=${page}`, {
           headers: {
-            Authorization: `Bearer Si5fiVQg7k88ms1A19cG`,
+            Authorization: `Bearer ${process.env.API_KEY}`,
           }
         })
         const json = await response.json();

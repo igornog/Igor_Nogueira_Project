@@ -1,7 +1,491 @@
 {
-  "ssrModuleMapping": {},
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "getServerActionDispatcher": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "getServerActionDispatcher",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "urlToUrlWithoutFlightMarker": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "urlToUrlWithoutFlightMarker",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundaryHandler": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundaryHandler",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "ErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "ErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectErrorBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectErrorBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "RedirectBoundary": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+        "name": "RedirectBoundary",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "*",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
+        "name": "default",
+        "chunks": [
+          "webpack:static/chunks/webpack.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "default",
+        "chunks": [
+          "app-client-internals:static/chunks/app-client-internals.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/movies/card/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/movies/card/index.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/movies/card/index.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/movies/card/index.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/movies/grid/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/movies/grid/index.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/movies/grid/index.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/movies/grid/index.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/characters/layout.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/characters/layout.tsx",
+        "name": "*",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/characters/layout.tsx",
+        "name": "",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/characters/layout.tsx",
+        "name": "default",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/characters/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/characters/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/characters/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/characters/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/characters/card/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/characters/card/index.tsx",
+        "name": "*",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/characters/card/index.tsx",
+        "name": "",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/characters/card/index.tsx",
+        "name": "default",
+        "chunks": [
+          "app/characters/page:static/chunks/app/characters/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/quotes/card/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/quotes/card/index.tsx",
+        "name": "*",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/quotes/card/index.tsx",
+        "name": "",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/quotes/card/index.tsx",
+        "name": "default",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/quotes/layout.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/quotes/layout.tsx",
+        "name": "*",
+        "chunks": [
+          "app/quotes/layout:static/chunks/app/quotes/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/quotes/layout.tsx",
+        "name": "",
+        "chunks": [
+          "app/quotes/layout:static/chunks/app/quotes/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/quotes/layout.tsx",
+        "name": "default",
+        "chunks": [
+          "app/quotes/layout:static/chunks/app/quotes/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/quotes/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/quotes/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/quotes/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/quotes/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      }
+    }
+  },
   "edgeSSRModuleMapping": {},
-  "cssFiles": {},
+  "cssFiles": {
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/page": [
+      "static/css/app/page.css"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/layout": [
+      "static/css/app/layout.css"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/layout": [
+      "static/css/app/characters/layout.css"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/page": [
+      "static/css/app/characters/page.css"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/page": [
+      "static/css/app/quotes/page.css"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout": [
+      "static/css/app/quotes/layout.css"
+    ]
+  },
   "clientModules": {
     "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
@@ -528,6 +1012,426 @@
       "name": "useServerInsertedHTML",
       "chunks": [
         "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/layout-router.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css",
+        "static/css/app/layout.css",
+        "static/css/app/characters/layout.css",
+        "static/css/app/characters/page.css",
+        "static/css/app/quotes/page.css",
+        "static/css/app/quotes/layout.css"
+      ]
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/page.css",
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/movies/card/index.tsx": {
+      "id": "(app-client)/./src/app/components/movies/card/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/movies/card/index.tsx#": {
+      "id": "(app-client)/./src/app/components/movies/card/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/movies/card/index.tsx#default": {
+      "id": "(app-client)/./src/app/components/movies/card/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/movies/grid/index.tsx": {
+      "id": "(app-client)/./src/app/components/movies/grid/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/movies/grid/index.tsx#": {
+      "id": "(app-client)/./src/app/components/movies/grid/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/movies/grid/index.tsx#default": {
+      "id": "(app-client)/./src/app/components/movies/grid/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/characters/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/characters/layout.css",
+        "static/css/app/characters/page.css"
+      ]
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/layout.tsx": {
+      "id": "(app-client)/./src/app/characters/layout.tsx",
+      "name": "*",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/layout.tsx#": {
+      "id": "(app-client)/./src/app/characters/layout.tsx",
+      "name": "",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/layout.tsx#default": {
+      "id": "(app-client)/./src/app/characters/layout.tsx",
+      "name": "default",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/page.tsx": {
+      "id": "(app-client)/./src/app/characters/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/page.tsx#": {
+      "id": "(app-client)/./src/app/characters/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/page.tsx#default": {
+      "id": "(app-client)/./src/app/characters/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/characters/card/index.tsx": {
+      "id": "(app-client)/./src/app/components/characters/card/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/characters/card/index.tsx#": {
+      "id": "(app-client)/./src/app/components/characters/card/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/characters/card/index.tsx#default": {
+      "id": "(app-client)/./src/app/components/characters/card/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/characters/page:static/chunks/app/characters/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/quotes/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/quotes/page.css",
+        "static/css/app/quotes/layout.css"
+      ]
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/quotes/card/index.tsx": {
+      "id": "(app-client)/./src/app/components/quotes/card/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/quotes/card/index.tsx#": {
+      "id": "(app-client)/./src/app/components/quotes/card/index.tsx",
+      "name": "",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/quotes/card/index.tsx#default": {
+      "id": "(app-client)/./src/app/components/quotes/card/index.tsx",
+      "name": "default",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx": {
+      "id": "(app-client)/./src/app/quotes/layout.tsx",
+      "name": "*",
+      "chunks": [
+        "app/quotes/layout:static/chunks/app/quotes/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx#": {
+      "id": "(app-client)/./src/app/quotes/layout.tsx",
+      "name": "",
+      "chunks": [
+        "app/quotes/layout:static/chunks/app/quotes/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx#default": {
+      "id": "(app-client)/./src/app/quotes/layout.tsx",
+      "name": "default",
+      "chunks": [
+        "app/quotes/layout:static/chunks/app/quotes/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/page.tsx": {
+      "id": "(app-client)/./src/app/quotes/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/page.tsx#": {
+      "id": "(app-client)/./src/app/quotes/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/page.tsx#default": {
+      "id": "(app-client)/./src/app/quotes/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
       ],
       "async": false
     }
