@@ -9,6 +9,15 @@
     ],
     "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/quotes/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}": [
       "static/media/18d7de0d27ebdc00-s.p.woff2"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css.webpack[javascript/auto]!=!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[2].use[1]!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[2].use[2]!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}": [
+      "static/media/18d7de0d27ebdc00-s.p.woff2"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css.webpack[javascript/auto]!=!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[2].use[1]!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[2].use[2]!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/characters/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}": [
+      "static/media/18d7de0d27ebdc00-s.p.woff2"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css.webpack[javascript/auto]!=!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[2].use[1]!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[2].oneOf[2].use[2]!/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/quotes/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}": [
+      "static/media/18d7de0d27ebdc00-s.p.woff2"
     ]
   },
   "appUsingSizeAdjust": true,
