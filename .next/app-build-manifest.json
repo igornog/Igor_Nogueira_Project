@@ -24,17 +24,17 @@
       "static/css/app/characters/page.css",
       "static/chunks/app/characters/page.js"
     ],
-    "/quotes/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/quotes/page.css",
-      "static/chunks/app/quotes/page.js"
-    ],
     "/quotes/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/quotes/layout.css",
       "static/chunks/app/quotes/layout.js"
+    ],
+    "/quotes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/quotes/page.css",
+      "static/chunks/app/quotes/page.js"
     ]
   }
 }

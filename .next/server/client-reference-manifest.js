@@ -386,6 +386,32 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./src/app/quotes/layout.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/quotes/layout.tsx",
+        "name": "*",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/quotes/layout.tsx",
+        "name": "",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/quotes/layout.tsx",
+        "name": "default",
+        "chunks": [
+          "app/quotes/page:static/chunks/app/quotes/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/app/components/quotes/card/index.tsx": {
       "*": {
         "id": "(sc_client)/./src/app/components/quotes/card/index.tsx",
@@ -408,32 +434,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/quotes/page:static/chunks/app/quotes/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/quotes/layout.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/quotes/layout.tsx",
-        "name": "*",
-        "chunks": [
-          "app/quotes/layout:static/chunks/app/quotes/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/quotes/layout.tsx",
-        "name": "",
-        "chunks": [
-          "app/quotes/layout:static/chunks/app/quotes/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/quotes/layout.tsx",
-        "name": "default",
-        "chunks": [
-          "app/quotes/layout:static/chunks/app/quotes/layout.js"
         ],
         "async": false
       }
@@ -479,11 +479,11 @@ self.__RSC_MANIFEST={
     "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/characters/page": [
       "static/css/app/characters/page.css"
     ],
-    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/page": [
-      "static/css/app/quotes/page.css"
-    ],
     "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout": [
       "static/css/app/quotes/layout.css"
+    ],
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/page": [
+      "static/css/app/quotes/page.css"
     ]
   },
   "clientModules": {
@@ -1167,8 +1167,8 @@ self.__RSC_MANIFEST={
         "static/css/app/layout.css",
         "static/css/app/characters/layout.css",
         "static/css/app/characters/page.css",
-        "static/css/app/quotes/page.css",
-        "static/css/app/quotes/layout.css"
+        "static/css/app/quotes/layout.css",
+        "static/css/app/quotes/page.css"
       ]
     },
     "/Users/igornogueira/liblab/Igor_Nogueira_Project/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"MedievalSharp\",\"arguments\":[{\"weight\":\"400\",\"subsets\":[\"latin\"]}],\"variableName\":\"medievalSharp\"}#": {
@@ -1359,9 +1359,33 @@ self.__RSC_MANIFEST={
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/quotes/page.css",
-        "static/css/app/quotes/layout.css"
+        "static/css/app/quotes/layout.css",
+        "static/css/app/quotes/page.css"
       ]
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx": {
+      "id": "(app-client)/./src/app/quotes/layout.tsx",
+      "name": "*",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx#": {
+      "id": "(app-client)/./src/app/quotes/layout.tsx",
+      "name": "",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
+    },
+    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx#default": {
+      "id": "(app-client)/./src/app/quotes/layout.tsx",
+      "name": "default",
+      "chunks": [
+        "app/quotes/page:static/chunks/app/quotes/page.js"
+      ],
+      "async": false
     },
     "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/components/quotes/card/index.tsx": {
       "id": "(app-client)/./src/app/components/quotes/card/index.tsx",
@@ -1384,30 +1408,6 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/quotes/page:static/chunks/app/quotes/page.js"
-      ],
-      "async": false
-    },
-    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx": {
-      "id": "(app-client)/./src/app/quotes/layout.tsx",
-      "name": "*",
-      "chunks": [
-        "app/quotes/layout:static/chunks/app/quotes/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx#": {
-      "id": "(app-client)/./src/app/quotes/layout.tsx",
-      "name": "",
-      "chunks": [
-        "app/quotes/layout:static/chunks/app/quotes/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/igornogueira/liblab/Igor_Nogueira_Project/src/app/quotes/layout.tsx#default": {
-      "id": "(app-client)/./src/app/quotes/layout.tsx",
-      "name": "default",
-      "chunks": [
-        "app/quotes/layout:static/chunks/app/quotes/layout.js"
       ],
       "async": false
     },
