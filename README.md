@@ -1,3 +1,5 @@
+<h1 align="center">Lord of the rings API - NextJS (Server side components)</h1>
+
 # See it live
 https://igor-nogueira-project.vercel.app/
 
