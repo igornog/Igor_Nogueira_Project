@@ -15,7 +15,7 @@ Goal: Build a React application that consumes the API from The Lord of the Rings
 
 &nbsp;
 ## :wrench: Technologies Used
-
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 ![](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAF)
