@@ -3,6 +3,16 @@
 ## :memo: Description
 Goal: Build a React application that consumes the API from The Lord of the Rings and displays the information on your website. We want to only display the movies, characters, and quotes models. You can ignore the other models. Feel free to use any additional library you want as long as you use React and Typescript.
 
+## :framed_picture: Photo
+<div display="flex">
+    <img src="./src/assets/signup.png" width="360px" h="360px">
+    <img src="./src/assets/view_created_posts.png" width="360px" h="360px">
+    <img src="./src/assets/create_post.png" width="360px" h="360px">
+    <img src="./src/assets/dashboard.png" width="360px" h="360px">
+    <img src="./src/assets/edit_post.png" width="360px" h="360px">
+    <img src="./src/assets/read_post.png" width="360px" h="360px">
+</div>
+
 # See it live
 https://igor-nogueira-project.vercel.app/
 
