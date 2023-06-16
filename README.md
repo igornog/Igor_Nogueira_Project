@@ -5,7 +5,7 @@ Goal: Build a React application that consumes the API from The Lord of the Rings
 
 ## :framed_picture: Photo
 <div display="flex">
-    <img src="./public/screenshots/all-movies" width="360px" h="360px">
+    <img src="./public/screenshots/all-movies.png" width="360px" h="360px">
     <img src="./public/screenshots/all-characters.png" width="360px" h="360px">
     <img src="./public/screenshots/all-quotes.png" width="360px" h="360px">
     <img src="./public/screenshots/pagination.png" width="360px" h="360px">
