@@ -1,4 +1,7 @@
-<h1 align="center">Lord of the rings API - NextJS (Server side components)</h1>
+<h1 align="center">Lord of the Rings API - NextJS (Server side components)</h1>
+
+## :memo: Description
+Goal: Build a React application that consumes the API from The Lord of the Rings and displays the information on your website. We want to only display the movies, characters, and quotes models. You can ignore the other models. Feel free to use any additional library you want as long as you use React and Typescript.
 
 # See it live
 https://igor-nogueira-project.vercel.app/
