@@ -1,4 +1,4 @@
-<h1 align="center">Lord of the Rings API - NextJS (Server side components)</h1>
+<h1 align="center">Lord of the Rings API - NextJS (server side components)</h1>
 
 &nbsp;
 ## :memo: Description
