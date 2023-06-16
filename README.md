@@ -1,8 +1,10 @@
 <h1 align="center">Lord of the Rings API - NextJS (Server side components)</h1>
 
+&nbsp;
 ## :memo: Description
 Goal: Build a React application that consumes the API from The Lord of the Rings and displays the information on your website. We want to only display the movies, characters, and quotes models. You can ignore the other models. Feel free to use any additional library you want as long as you use React and Typescript.
 
+&nbsp;
 ## :framed_picture: Screenshots
 <div display="flex">
     <img src="./public/screenshots/all-movies.png" width="360px" h="360px">
@@ -11,6 +13,7 @@ Goal: Build a React application that consumes the API from The Lord of the Rings
     <img src="./public/screenshots/pagination.png" width="360px" h="360px">
 </div>
 
+&nbsp;
 ## :wrench: Technologies Used
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,7 +21,7 @@ Goal: Build a React application that consumes the API from The Lord of the Rings
 ![](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAF)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
+&nbsp;
 ## :rocket: Getting Started
 
 ### Prerequisites
@@ -51,6 +54,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+&nbsp;
 # See it live
 https://igor-nogueira-project.vercel.app/
 
